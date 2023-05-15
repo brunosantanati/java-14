@@ -2,7 +2,7 @@
 
 ## Links
 
-[Link with all JEPs](https://openjdk.org/projects/jdk/12/)  
+[Link with all JEPs](https://openjdk.org/projects/jdk/14/)  
 
 ## List of JEPs
 
